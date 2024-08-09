@@ -1,0 +1,16 @@
+D:\Teaching\Spring 2018\31927 Net programming\Lectures-pptx\Week-2\Programs\Week2\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe.config
+D:\Teaching\Spring 2018\31927 Net programming\Lectures-pptx\Week-2\Programs\Week2\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe
+D:\Teaching\Spring 2018\31927 Net programming\Lectures-pptx\Week-2\Programs\Week2\HelloWorld\HelloWorld\bin\Debug\HelloWorld.pdb
+D:\Teaching\Spring 2018\31927 Net programming\Lectures-pptx\Week-2\Programs\Week2\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csprojResolveAssemblyReference.cache
+D:\Teaching\Spring 2018\31927 Net programming\Lectures-pptx\Week-2\Programs\Week2\HelloWorld\HelloWorld\obj\Debug\HelloWorld.exe
+D:\Teaching\Spring 2018\31927 Net programming\Lectures-pptx\Week-2\Programs\Week2\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb
+D:\Teaching\Spring 2018\31927 Net programming\Lectures-pptx\Week-1\Lab Work\Week-LabProgrammingQuestions\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe.config
+D:\Teaching\Spring 2018\31927 Net programming\Lectures-pptx\Week-1\Lab Work\Week-LabProgrammingQuestions\HelloWorld\HelloWorld\obj\Debug\HelloWorld.exe
+D:\Teaching\Spring 2018\31927 Net programming\Lectures-pptx\Week-1\Lab Work\Week-LabProgrammingQuestions\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb
+C:\Users\Andreas Skotadis\Documents\31927\Week 1\Tutorial-Lab1-ProgrammingQuestions\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe.config
+C:\Users\Andreas Skotadis\Documents\31927\Week 1\Tutorial-Lab1-ProgrammingQuestions\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe
+C:\Users\Andreas Skotadis\Documents\31927\Week 1\Tutorial-Lab1-ProgrammingQuestions\HelloWorld\HelloWorld\bin\Debug\HelloWorld.pdb
+C:\Users\Andreas Skotadis\Documents\31927\Week 1\Tutorial-Lab1-ProgrammingQuestions\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csproj.AssemblyReference.cache
+C:\Users\Andreas Skotadis\Documents\31927\Week 1\Tutorial-Lab1-ProgrammingQuestions\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\Andreas Skotadis\Documents\31927\Week 1\Tutorial-Lab1-ProgrammingQuestions\HelloWorld\HelloWorld\obj\Debug\HelloWorld.exe
+C:\Users\Andreas Skotadis\Documents\31927\Week 1\Tutorial-Lab1-ProgrammingQuestions\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb
