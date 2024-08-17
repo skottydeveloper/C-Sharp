@@ -1,0 +1,28 @@
+/Users/diwu/Documents/Csharp Projects/Program2/Program2/bin/Debug/Program2.exe
+/Users/diwu/Documents/Csharp Projects/Program2/Program2/bin/Debug/Program2.pdb
+/Users/diwu/Documents/Csharp Projects/Program2/Program2/obj/x86/Debug/Program2.csprojResolveAssemblyReference.cache
+/Users/diwu/Documents/Csharp Projects/Program2/Program2/obj/x86/Debug/Program2.csproj.CoreCompileInputs.cache
+/Users/diwu/Documents/Csharp Projects/Program2/Program2/obj/x86/Debug/Program2.exe
+/Users/diwu/Documents/Csharp Projects/Program2/Program2/obj/x86/Debug/Program2.pdb
+D:\Teaching\Spring 2018\31927 Net programming\Lectures-pptx\Week-3\Lab Work\Program2\Program2\bin\Debug\Program2.exe.config
+D:\Teaching\Spring 2018\31927 Net programming\Lectures-pptx\Week-3\Lab Work\Program2\Program2\obj\x86\Debug\Program2.exe
+D:\Teaching\Spring 2018\31927 Net programming\Lectures-pptx\Week-3\Lab Work\Program2\Program2\obj\x86\Debug\Program2.pdb
+D:\Teaching\Spring 2018\31927 Net programming\Lectures-pptx\Week-3\Lab Work\Program2\Program2\bin\Debug\Program2.exe
+D:\Teaching\Spring 2018\31927 Net programming\Lectures-pptx\Week-3\Lab Work\Program2\Program2\bin\Debug\Program2.pdb
+D:\Teaching\Spring 2018\31927 Net programming\Lectures-pptx\Week-3\Lab Work\Program2\Program2\obj\x86\Debug\Program2.csprojResolveAssemblyReference.cache
+D:\Teaching\Spring 2018\31927 Net programming\Lectures-pptx\Week-3\Lab Work\Tutorial-Lab2-ProgrammingSolutions\Program2\Program2\bin\Debug\Program2.exe.config
+D:\Teaching\Spring 2018\31927 Net programming\Lectures-pptx\Week-3\Lab Work\Tutorial-Lab2-ProgrammingSolutions\Program2\Program2\obj\x86\Debug\Program2.exe
+D:\Teaching\Spring 2018\31927 Net programming\Lectures-pptx\Week-3\Lab Work\Tutorial-Lab2-ProgrammingSolutions\Program2\Program2\obj\x86\Debug\Program2.pdb
+D:\Teaching\Spring 2018\31927 Net programming\Lectures-pptx\Week-3\Lab Work\Tutorial-Lab2-ProgrammingSolutions\Program2\Program2\bin\Debug\Program2.exe
+D:\Teaching\Spring 2018\31927 Net programming\Lectures-pptx\Week-3\Lab Work\Tutorial-Lab2-ProgrammingSolutions\Program2\Program2\bin\Debug\Program2.pdb
+D:\Teaching\Spring 2018\31927 Net programming\Lectures-pptx\Week-3\Lab Work\Tutorial-Lab2-ProgrammingSolutions\Program2\Program2\obj\x86\Debug\Program2.csprojResolveAssemblyReference.cache
+D:\Teaching\Spring 2018\31927 Net programming\Lectures-pptx\Week-3\Lab Work\Tutorial-Lab2-ProgrammingQuestions\Program2\Program2\bin\Debug\Program2.exe.config
+D:\Teaching\Spring 2018\31927 Net programming\Lectures-pptx\Week-3\Lab Work\Tutorial-Lab2-ProgrammingQuestions\Program2\Program2\obj\x86\Debug\Program2.exe
+D:\Teaching\Spring 2018\31927 Net programming\Lectures-pptx\Week-3\Lab Work\Tutorial-Lab2-ProgrammingQuestions\Program2\Program2\obj\x86\Debug\Program2.pdb
+C:\Users\Andreas Skotadis\Documents\31927\Week 2\Tutorial-Lab2-ProgrammingQuestions\Program2\Program2\bin\Debug\Program2.exe.config
+C:\Users\Andreas Skotadis\Documents\31927\Week 2\Tutorial-Lab2-ProgrammingQuestions\Program2\Program2\bin\Debug\Program2.exe
+C:\Users\Andreas Skotadis\Documents\31927\Week 2\Tutorial-Lab2-ProgrammingQuestions\Program2\Program2\bin\Debug\Program2.pdb
+C:\Users\Andreas Skotadis\Documents\31927\Week 2\Tutorial-Lab2-ProgrammingQuestions\Program2\Program2\obj\x86\Debug\Program2.csproj.AssemblyReference.cache
+C:\Users\Andreas Skotadis\Documents\31927\Week 2\Tutorial-Lab2-ProgrammingQuestions\Program2\Program2\obj\x86\Debug\Program2.csproj.CoreCompileInputs.cache
+C:\Users\Andreas Skotadis\Documents\31927\Week 2\Tutorial-Lab2-ProgrammingQuestions\Program2\Program2\obj\x86\Debug\Program2.exe
+C:\Users\Andreas Skotadis\Documents\31927\Week 2\Tutorial-Lab2-ProgrammingQuestions\Program2\Program2\obj\x86\Debug\Program2.pdb

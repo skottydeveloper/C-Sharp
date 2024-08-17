@@ -1,0 +1,22 @@
+/Users/diwu/Documents/Csharp Projects/Program3/Program3/bin/Debug/Program3.exe
+/Users/diwu/Documents/Csharp Projects/Program3/Program3/bin/Debug/Program3.pdb
+/Users/diwu/Documents/Csharp Projects/Program3/Program3/obj/x86/Debug/Program3.csprojResolveAssemblyReference.cache
+/Users/diwu/Documents/Csharp Projects/Program3/Program3/obj/x86/Debug/Program3.csproj.CoreCompileInputs.cache
+/Users/diwu/Documents/Csharp Projects/Program3/Program3/obj/x86/Debug/Program3.exe
+/Users/diwu/Documents/Csharp Projects/Program3/Program3/obj/x86/Debug/Program3.pdb
+D:\Teaching\Spring 2018\31927 Net programming\Lectures-pptx\Week-3\Lab Work\Program3\Program3\bin\Debug\Program3.exe.config
+D:\Teaching\Spring 2018\31927 Net programming\Lectures-pptx\Week-3\Lab Work\Program3\Program3\obj\x86\Debug\Program3.exe
+D:\Teaching\Spring 2018\31927 Net programming\Lectures-pptx\Week-3\Lab Work\Program3\Program3\obj\x86\Debug\Program3.pdb
+D:\Teaching\Spring 2018\31927 Net programming\Lectures-pptx\Week-3\Lab Work\Program3\Program3\bin\Debug\Program3.exe
+D:\Teaching\Spring 2018\31927 Net programming\Lectures-pptx\Week-3\Lab Work\Program3\Program3\bin\Debug\Program3.pdb
+D:\Teaching\Spring 2018\31927 Net programming\Lectures-pptx\Week-3\Lab Work\Program3\Program3\obj\x86\Debug\Program3.csprojResolveAssemblyReference.cache
+D:\Teaching\Spring 2018\31927 Net programming\Lectures-pptx\Week-3\Lab Work\Tutorial-Lab2-ProgrammingQuestions\Program3\Program3\bin\Debug\Program3.exe.config
+D:\Teaching\Spring 2018\31927 Net programming\Lectures-pptx\Week-3\Lab Work\Tutorial-Lab2-ProgrammingQuestions\Program3\Program3\obj\x86\Debug\Program3.exe
+D:\Teaching\Spring 2018\31927 Net programming\Lectures-pptx\Week-3\Lab Work\Tutorial-Lab2-ProgrammingQuestions\Program3\Program3\obj\x86\Debug\Program3.pdb
+C:\Users\Andreas Skotadis\Documents\31927\Week 2\Tutorial-Lab2-ProgrammingQuestions\Program3\Program3\bin\Debug\Program3.exe.config
+C:\Users\Andreas Skotadis\Documents\31927\Week 2\Tutorial-Lab2-ProgrammingQuestions\Program3\Program3\bin\Debug\Program3.exe
+C:\Users\Andreas Skotadis\Documents\31927\Week 2\Tutorial-Lab2-ProgrammingQuestions\Program3\Program3\bin\Debug\Program3.pdb
+C:\Users\Andreas Skotadis\Documents\31927\Week 2\Tutorial-Lab2-ProgrammingQuestions\Program3\Program3\obj\x86\Debug\Program3.csproj.AssemblyReference.cache
+C:\Users\Andreas Skotadis\Documents\31927\Week 2\Tutorial-Lab2-ProgrammingQuestions\Program3\Program3\obj\x86\Debug\Program3.csproj.CoreCompileInputs.cache
+C:\Users\Andreas Skotadis\Documents\31927\Week 2\Tutorial-Lab2-ProgrammingQuestions\Program3\Program3\obj\x86\Debug\Program3.exe
+C:\Users\Andreas Skotadis\Documents\31927\Week 2\Tutorial-Lab2-ProgrammingQuestions\Program3\Program3\obj\x86\Debug\Program3.pdb

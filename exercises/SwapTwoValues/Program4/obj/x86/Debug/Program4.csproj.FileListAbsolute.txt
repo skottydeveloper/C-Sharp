@@ -1,0 +1,22 @@
+/Users/diwu/Documents/Csharp Projects/Program4/Program4/bin/Debug/Program4.exe
+/Users/diwu/Documents/Csharp Projects/Program4/Program4/bin/Debug/Program4.pdb
+/Users/diwu/Documents/Csharp Projects/Program4/Program4/obj/x86/Debug/Program4.csprojResolveAssemblyReference.cache
+/Users/diwu/Documents/Csharp Projects/Program4/Program4/obj/x86/Debug/Program4.csproj.CoreCompileInputs.cache
+/Users/diwu/Documents/Csharp Projects/Program4/Program4/obj/x86/Debug/Program4.exe
+/Users/diwu/Documents/Csharp Projects/Program4/Program4/obj/x86/Debug/Program4.pdb
+D:\Teaching\Spring 2018\31927 Net programming\Lectures-pptx\Week-3\Lab Work\Program4\Program4\bin\Debug\Program4.exe.config
+D:\Teaching\Spring 2018\31927 Net programming\Lectures-pptx\Week-3\Lab Work\Program4\Program4\obj\x86\Debug\Program4.exe
+D:\Teaching\Spring 2018\31927 Net programming\Lectures-pptx\Week-3\Lab Work\Program4\Program4\obj\x86\Debug\Program4.pdb
+D:\Teaching\Spring 2018\31927 Net programming\Lectures-pptx\Week-3\Lab Work\Program4\Program4\bin\Debug\Program4.exe
+D:\Teaching\Spring 2018\31927 Net programming\Lectures-pptx\Week-3\Lab Work\Program4\Program4\bin\Debug\Program4.pdb
+D:\Teaching\Spring 2018\31927 Net programming\Lectures-pptx\Week-3\Lab Work\Program4\Program4\obj\x86\Debug\Program4.csprojResolveAssemblyReference.cache
+D:\Teaching\Spring 2018\31927 Net programming\Lectures-pptx\Week-3\Lab Work\Tutorial-Lab2-ProgrammingQuestions\Program4\Program4\bin\Debug\Program4.exe.config
+D:\Teaching\Spring 2018\31927 Net programming\Lectures-pptx\Week-3\Lab Work\Tutorial-Lab2-ProgrammingQuestions\Program4\Program4\obj\x86\Debug\Program4.exe
+D:\Teaching\Spring 2018\31927 Net programming\Lectures-pptx\Week-3\Lab Work\Tutorial-Lab2-ProgrammingQuestions\Program4\Program4\obj\x86\Debug\Program4.pdb
+C:\Users\Andreas Skotadis\Documents\31927\Week 2\Tutorial-Lab2-ProgrammingQuestions\Program4\Program4\bin\Debug\Program4.exe.config
+C:\Users\Andreas Skotadis\Documents\31927\Week 2\Tutorial-Lab2-ProgrammingQuestions\Program4\Program4\bin\Debug\Program4.exe
+C:\Users\Andreas Skotadis\Documents\31927\Week 2\Tutorial-Lab2-ProgrammingQuestions\Program4\Program4\bin\Debug\Program4.pdb
+C:\Users\Andreas Skotadis\Documents\31927\Week 2\Tutorial-Lab2-ProgrammingQuestions\Program4\Program4\obj\x86\Debug\Program4.csproj.AssemblyReference.cache
+C:\Users\Andreas Skotadis\Documents\31927\Week 2\Tutorial-Lab2-ProgrammingQuestions\Program4\Program4\obj\x86\Debug\Program4.csproj.CoreCompileInputs.cache
+C:\Users\Andreas Skotadis\Documents\31927\Week 2\Tutorial-Lab2-ProgrammingQuestions\Program4\Program4\obj\x86\Debug\Program4.exe
+C:\Users\Andreas Skotadis\Documents\31927\Week 2\Tutorial-Lab2-ProgrammingQuestions\Program4\Program4\obj\x86\Debug\Program4.pdb

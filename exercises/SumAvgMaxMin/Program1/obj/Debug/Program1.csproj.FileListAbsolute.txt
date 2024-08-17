@@ -1,0 +1,16 @@
+D:\Teaching\Spring 2018\31927 Net programming\Lectures-pptx\Week-3\Lab Work\Tutorial-Lab1-ProgrammingQuestions\Program1\Program1\bin\Debug\Program1.exe.config
+D:\Teaching\Spring 2018\31927 Net programming\Lectures-pptx\Week-3\Lab Work\Tutorial-Lab1-ProgrammingQuestions\Program1\Program1\obj\Debug\Program1.csprojResolveAssemblyReference.cache
+D:\Teaching\Spring 2018\31927 Net programming\Lectures-pptx\Week-3\Lab Work\Tutorial-Lab1-ProgrammingQuestions\Program1\Program1\bin\Debug\Program1.exe
+D:\Teaching\Spring 2018\31927 Net programming\Lectures-pptx\Week-3\Lab Work\Tutorial-Lab1-ProgrammingQuestions\Program1\Program1\bin\Debug\Program1.pdb
+D:\Teaching\Spring 2018\31927 Net programming\Lectures-pptx\Week-3\Lab Work\Tutorial-Lab1-ProgrammingQuestions\Program1\Program1\obj\Debug\Program1.exe
+D:\Teaching\Spring 2018\31927 Net programming\Lectures-pptx\Week-3\Lab Work\Tutorial-Lab1-ProgrammingQuestions\Program1\Program1\obj\Debug\Program1.pdb
+D:\Teaching\Spring 2018\31927 Net programming\Lectures-pptx\Week-3\Lab Work\Tutorial-Lab2-ProgrammingQuestions\Program1\Program1\bin\Debug\Program1.exe.config
+D:\Teaching\Spring 2018\31927 Net programming\Lectures-pptx\Week-3\Lab Work\Tutorial-Lab2-ProgrammingQuestions\Program1\Program1\obj\Debug\Program1.exe
+D:\Teaching\Spring 2018\31927 Net programming\Lectures-pptx\Week-3\Lab Work\Tutorial-Lab2-ProgrammingQuestions\Program1\Program1\obj\Debug\Program1.pdb
+C:\Users\Andreas Skotadis\Documents\31927\Week 2\Tutorial-Lab2-ProgrammingQuestions\Program1\Program1\bin\Debug\Program1.exe.config
+C:\Users\Andreas Skotadis\Documents\31927\Week 2\Tutorial-Lab2-ProgrammingQuestions\Program1\Program1\bin\Debug\Program1.exe
+C:\Users\Andreas Skotadis\Documents\31927\Week 2\Tutorial-Lab2-ProgrammingQuestions\Program1\Program1\bin\Debug\Program1.pdb
+C:\Users\Andreas Skotadis\Documents\31927\Week 2\Tutorial-Lab2-ProgrammingQuestions\Program1\Program1\obj\Debug\Program1.csproj.AssemblyReference.cache
+C:\Users\Andreas Skotadis\Documents\31927\Week 2\Tutorial-Lab2-ProgrammingQuestions\Program1\Program1\obj\Debug\Program1.csproj.CoreCompileInputs.cache
+C:\Users\Andreas Skotadis\Documents\31927\Week 2\Tutorial-Lab2-ProgrammingQuestions\Program1\Program1\obj\Debug\Program1.exe
+C:\Users\Andreas Skotadis\Documents\31927\Week 2\Tutorial-Lab2-ProgrammingQuestions\Program1\Program1\obj\Debug\Program1.pdb
