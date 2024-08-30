@@ -1,0 +1,7 @@
+F:\UTS\Teaching\Spring 2018\DotnetProgramming\Week5\QuadraticEquation\QuadraticEquation\obj\Debug\QuadraticEquation.csproj.CoreCompileInputs.cache
+F:\UTS\Teaching\Spring 2018\DotnetProgramming\Week5\QuadraticEquation\QuadraticEquation\bin\Debug\QuadraticEquation.exe.config
+F:\UTS\Teaching\Spring 2018\DotnetProgramming\Week5\QuadraticEquation\QuadraticEquation\bin\Debug\QuadraticEquation.exe
+F:\UTS\Teaching\Spring 2018\DotnetProgramming\Week5\QuadraticEquation\QuadraticEquation\bin\Debug\QuadraticEquation.pdb
+F:\UTS\Teaching\Spring 2018\DotnetProgramming\Week5\QuadraticEquation\QuadraticEquation\obj\Debug\QuadraticEquation.exe
+F:\UTS\Teaching\Spring 2018\DotnetProgramming\Week5\QuadraticEquation\QuadraticEquation\obj\Debug\QuadraticEquation.pdb
+F:\UTS\Teaching\Spring 2018\DotnetProgramming\Week5\QuadraticEquation\QuadraticEquation\obj\Debug\QuadraticEquation.csprojAssemblyReference.cache

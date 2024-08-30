@@ -1,0 +1,7 @@
+F:\UTS\Teaching\Spring 2018\DotnetProgramming\Week5\MatrixAddition\MatrixAddition\bin\Debug\MatrixAddition.exe.config
+F:\UTS\Teaching\Spring 2018\DotnetProgramming\Week5\MatrixAddition\MatrixAddition\bin\Debug\MatrixAddition.exe
+F:\UTS\Teaching\Spring 2018\DotnetProgramming\Week5\MatrixAddition\MatrixAddition\bin\Debug\MatrixAddition.pdb
+F:\UTS\Teaching\Spring 2018\DotnetProgramming\Week5\MatrixAddition\MatrixAddition\obj\Debug\MatrixAddition.csprojAssemblyReference.cache
+F:\UTS\Teaching\Spring 2018\DotnetProgramming\Week5\MatrixAddition\MatrixAddition\obj\Debug\MatrixAddition.csproj.CoreCompileInputs.cache
+F:\UTS\Teaching\Spring 2018\DotnetProgramming\Week5\MatrixAddition\MatrixAddition\obj\Debug\MatrixAddition.exe
+F:\UTS\Teaching\Spring 2018\DotnetProgramming\Week5\MatrixAddition\MatrixAddition\obj\Debug\MatrixAddition.pdb
