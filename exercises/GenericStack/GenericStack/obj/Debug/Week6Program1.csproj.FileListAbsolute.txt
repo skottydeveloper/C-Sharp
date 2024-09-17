@@ -1,0 +1,8 @@
+C:\Users\133061\Downloads\Lecture Slides\2023\Tutorial\Tutorial lab 6 ProgrammingSolutions\GenericStack\Week8Program1\bin\Debug\Week8Program1.exe.config
+C:\Users\133061\Downloads\Lecture Slides\2023\Tutorial\Tutorial lab 6 ProgrammingSolutions\GenericStack\Week8Program1\bin\Debug\Week8Program1.exe
+C:\Users\133061\Downloads\Lecture Slides\2023\Tutorial\Tutorial lab 6 ProgrammingSolutions\GenericStack\Week8Program1\bin\Debug\Week8Program1.pdb
+C:\Users\133061\Downloads\Lecture Slides\2023\Tutorial\Tutorial lab 6 ProgrammingSolutions\GenericStack\Week8Program1\obj\Debug\Week6Program1.csproj.AssemblyReference.cache
+C:\Users\133061\Downloads\Lecture Slides\2023\Tutorial\Tutorial lab 6 ProgrammingSolutions\GenericStack\Week8Program1\obj\Debug\Week6Program1.csproj.SuggestedBindingRedirects.cache
+C:\Users\133061\Downloads\Lecture Slides\2023\Tutorial\Tutorial lab 6 ProgrammingSolutions\GenericStack\Week8Program1\obj\Debug\Week6Program1.csproj.CoreCompileInputs.cache
+C:\Users\133061\Downloads\Lecture Slides\2023\Tutorial\Tutorial lab 6 ProgrammingSolutions\GenericStack\Week8Program1\obj\Debug\Week8Program1.exe
+C:\Users\133061\Downloads\Lecture Slides\2023\Tutorial\Tutorial lab 6 ProgrammingSolutions\GenericStack\Week8Program1\obj\Debug\Week8Program1.pdb

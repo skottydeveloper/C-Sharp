@@ -1,0 +1,8 @@
+C:\Users\133061\Downloads\Lecture Slides\2023\Tutorial\Tutorial lab 6 ProgrammingSolutions\Employees\Week10Program1\bin\Debug\Week10Program1.exe.config
+C:\Users\133061\Downloads\Lecture Slides\2023\Tutorial\Tutorial lab 6 ProgrammingSolutions\Employees\Week10Program1\bin\Debug\Week10Program1.exe
+C:\Users\133061\Downloads\Lecture Slides\2023\Tutorial\Tutorial lab 6 ProgrammingSolutions\Employees\Week10Program1\bin\Debug\Week10Program1.pdb
+C:\Users\133061\Downloads\Lecture Slides\2023\Tutorial\Tutorial lab 6 ProgrammingSolutions\Employees\Week10Program1\obj\Debug\Employees.csproj.AssemblyReference.cache
+C:\Users\133061\Downloads\Lecture Slides\2023\Tutorial\Tutorial lab 6 ProgrammingSolutions\Employees\Week10Program1\obj\Debug\Employees.csproj.SuggestedBindingRedirects.cache
+C:\Users\133061\Downloads\Lecture Slides\2023\Tutorial\Tutorial lab 6 ProgrammingSolutions\Employees\Week10Program1\obj\Debug\Employees.csproj.CoreCompileInputs.cache
+C:\Users\133061\Downloads\Lecture Slides\2023\Tutorial\Tutorial lab 6 ProgrammingSolutions\Employees\Week10Program1\obj\Debug\Week10Program1.exe
+C:\Users\133061\Downloads\Lecture Slides\2023\Tutorial\Tutorial lab 6 ProgrammingSolutions\Employees\Week10Program1\obj\Debug\Week10Program1.pdb

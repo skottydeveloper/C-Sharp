@@ -1,0 +1,7 @@
+C:\Users\130410\AppLockerExceptions\Tutorial lab 6 ProgrammingSolutions\Shapes\Shapes\bin\Debug\Week7Program2.exe.config
+C:\Users\130410\AppLockerExceptions\Tutorial lab 6 ProgrammingSolutions\Shapes\Shapes\bin\Debug\Week7Program2.exe
+C:\Users\130410\AppLockerExceptions\Tutorial lab 6 ProgrammingSolutions\Shapes\Shapes\bin\Debug\Week7Program2.pdb
+C:\Users\130410\AppLockerExceptions\Tutorial lab 6 ProgrammingSolutions\Shapes\Shapes\obj\Debug\Shapes.csprojAssemblyReference.cache
+C:\Users\130410\AppLockerExceptions\Tutorial lab 6 ProgrammingSolutions\Shapes\Shapes\obj\Debug\Shapes.csproj.CoreCompileInputs.cache
+C:\Users\130410\AppLockerExceptions\Tutorial lab 6 ProgrammingSolutions\Shapes\Shapes\obj\Debug\Week7Program2.exe
+C:\Users\130410\AppLockerExceptions\Tutorial lab 6 ProgrammingSolutions\Shapes\Shapes\obj\Debug\Week7Program2.pdb
