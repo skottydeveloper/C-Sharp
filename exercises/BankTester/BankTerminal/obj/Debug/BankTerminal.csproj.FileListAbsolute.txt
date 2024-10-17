@@ -1,0 +1,16 @@
+E:\Repositories\NUnit\BankTester\BankTerminal\obj\Debug\BankTerminal.csproj.AssemblyReference.cache
+E:\Repositories\NUnit\BankTester\BankTerminal\obj\Debug\BankTerminal.csproj.SuggestedBindingRedirects.cache
+E:\Repositories\NUnit\BankTester\BankTerminal\obj\Debug\BankTerminal.csproj.CoreCompileInputs.cache
+E:\Repositories\NUnit\BankTester\BankTerminal\bin\Debug\BankTerminal.exe.config
+E:\Repositories\NUnit\BankTester\BankTerminal\bin\Debug\BankTerminal.exe
+E:\Repositories\NUnit\BankTester\BankTerminal\bin\Debug\BankTerminal.pdb
+E:\Repositories\NUnit\BankTester\BankTerminal\obj\Debug\BankTerminal.exe
+E:\Repositories\NUnit\BankTester\BankTerminal\obj\Debug\BankTerminal.pdb
+E:\Repositories\NUnit\BankTesterSolution\BankTerminal\bin\Debug\BankTerminal.exe.config
+E:\Repositories\NUnit\BankTesterSolution\BankTerminal\bin\Debug\BankTerminal.exe
+E:\Repositories\NUnit\BankTesterSolution\BankTerminal\bin\Debug\BankTerminal.pdb
+E:\Repositories\NUnit\BankTesterSolution\BankTerminal\obj\Debug\BankTerminal.csproj.AssemblyReference.cache
+E:\Repositories\NUnit\BankTesterSolution\BankTerminal\obj\Debug\BankTerminal.csproj.SuggestedBindingRedirects.cache
+E:\Repositories\NUnit\BankTesterSolution\BankTerminal\obj\Debug\BankTerminal.csproj.CoreCompileInputs.cache
+E:\Repositories\NUnit\BankTesterSolution\BankTerminal\obj\Debug\BankTerminal.exe
+E:\Repositories\NUnit\BankTesterSolution\BankTerminal\obj\Debug\BankTerminal.pdb

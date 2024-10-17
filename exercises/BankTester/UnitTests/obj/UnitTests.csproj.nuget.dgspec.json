@@ -1,0 +1,108 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\Repositories\\NUnit\\BankTesterSolution\\UnitTests\\UnitTests.csproj": {}
+  },
+  "projects": {
+    "E:\\Repositories\\NUnit\\BankTesterSolution\\BankTerminal\\BankTerminal.csproj": {
+      "restore": {
+        "projectUniqueName": "E:\\Repositories\\NUnit\\BankTesterSolution\\BankTerminal\\BankTerminal.csproj",
+        "projectName": "BankTerminal",
+        "projectPath": "E:\\Repositories\\NUnit\\BankTesterSolution\\BankTerminal\\BankTerminal.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "E:\\Repositories\\NUnit\\BankTesterSolution\\UnitTests\\UnitTests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Repositories\\NUnit\\BankTesterSolution\\UnitTests\\UnitTests.csproj",
+        "projectName": "UnitTests",
+        "projectPath": "E:\\Repositories\\NUnit\\BankTesterSolution\\UnitTests\\UnitTests.csproj",
+        "packagesPath": "C:\\Users\\Vaerys\\.nuget\\packages\\",
+        "outputPath": "E:\\Repositories\\NUnit\\BankTesterSolution\\UnitTests\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Vaerys\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "E:\\Repositories\\NUnit\\BankTesterSolution\\BankTerminal\\BankTerminal.csproj": {
+                "projectPath": "E:\\Repositories\\NUnit\\BankTesterSolution\\BankTerminal\\BankTerminal.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.5.0, )"
+            },
+            "NUnit": {
+              "target": "Package",
+              "version": "[3.13.3, )"
+            },
+            "NUnit.Analyzers": {
+              "target": "Package",
+              "version": "[3.6.1, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[4.4.2, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[3.2.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
