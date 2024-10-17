@@ -1,0 +1,8 @@
+C:\Users\133061\Downloads\Lecture Slides\2023\Tutorial\Tutorial lab 7 ProgrammingSolutions\Lambdas\Lambdas\bin\Debug\Lambdas.exe.config
+C:\Users\133061\Downloads\Lecture Slides\2023\Tutorial\Tutorial lab 7 ProgrammingSolutions\Lambdas\Lambdas\bin\Debug\Lambdas.exe
+C:\Users\133061\Downloads\Lecture Slides\2023\Tutorial\Tutorial lab 7 ProgrammingSolutions\Lambdas\Lambdas\bin\Debug\Lambdas.pdb
+C:\Users\133061\Downloads\Lecture Slides\2023\Tutorial\Tutorial lab 7 ProgrammingSolutions\Lambdas\Lambdas\obj\Debug\Lambdas.csproj.AssemblyReference.cache
+C:\Users\133061\Downloads\Lecture Slides\2023\Tutorial\Tutorial lab 7 ProgrammingSolutions\Lambdas\Lambdas\obj\Debug\Lambdas.csproj.SuggestedBindingRedirects.cache
+C:\Users\133061\Downloads\Lecture Slides\2023\Tutorial\Tutorial lab 7 ProgrammingSolutions\Lambdas\Lambdas\obj\Debug\Lambdas.csproj.CoreCompileInputs.cache
+C:\Users\133061\Downloads\Lecture Slides\2023\Tutorial\Tutorial lab 7 ProgrammingSolutions\Lambdas\Lambdas\obj\Debug\Lambdas.exe
+C:\Users\133061\Downloads\Lecture Slides\2023\Tutorial\Tutorial lab 7 ProgrammingSolutions\Lambdas\Lambdas\obj\Debug\Lambdas.pdb

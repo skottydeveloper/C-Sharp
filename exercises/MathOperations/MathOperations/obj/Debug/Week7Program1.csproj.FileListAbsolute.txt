@@ -1,0 +1,8 @@
+C:\Users\133061\Downloads\Lecture Slides\2023\Tutorial\Tutorial lab 7 ProgrammingSolutions\MathOperations\Week10Program1\bin\Debug\Week10Program1.exe.config
+C:\Users\133061\Downloads\Lecture Slides\2023\Tutorial\Tutorial lab 7 ProgrammingSolutions\MathOperations\Week10Program1\bin\Debug\Week10Program1.exe
+C:\Users\133061\Downloads\Lecture Slides\2023\Tutorial\Tutorial lab 7 ProgrammingSolutions\MathOperations\Week10Program1\bin\Debug\Week10Program1.pdb
+C:\Users\133061\Downloads\Lecture Slides\2023\Tutorial\Tutorial lab 7 ProgrammingSolutions\MathOperations\Week10Program1\obj\Debug\MathOperations.csproj.AssemblyReference.cache
+C:\Users\133061\Downloads\Lecture Slides\2023\Tutorial\Tutorial lab 7 ProgrammingSolutions\MathOperations\Week10Program1\obj\Debug\MathOperations.csproj.SuggestedBindingRedirects.cache
+C:\Users\133061\Downloads\Lecture Slides\2023\Tutorial\Tutorial lab 7 ProgrammingSolutions\MathOperations\Week10Program1\obj\Debug\MathOperations.csproj.CoreCompileInputs.cache
+C:\Users\133061\Downloads\Lecture Slides\2023\Tutorial\Tutorial lab 7 ProgrammingSolutions\MathOperations\Week10Program1\obj\Debug\Week10Program1.exe
+C:\Users\133061\Downloads\Lecture Slides\2023\Tutorial\Tutorial lab 7 ProgrammingSolutions\MathOperations\Week10Program1\obj\Debug\Week10Program1.pdb
