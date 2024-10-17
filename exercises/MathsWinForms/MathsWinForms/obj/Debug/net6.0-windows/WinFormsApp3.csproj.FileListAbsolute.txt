@@ -1,0 +1,33 @@
+C:\Users\m1760\source\repos\MathsWinForms\MathsWinForms\bin\Debug\net6.0-windows\MathsWinForms.exe
+C:\Users\m1760\source\repos\MathsWinForms\MathsWinForms\bin\Debug\net6.0-windows\MathsWinForms.deps.json
+C:\Users\m1760\source\repos\MathsWinForms\MathsWinForms\bin\Debug\net6.0-windows\MathsWinForms.runtimeconfig.json
+C:\Users\m1760\source\repos\MathsWinForms\MathsWinForms\bin\Debug\net6.0-windows\MathsWinForms.dll
+C:\Users\m1760\source\repos\MathsWinForms\MathsWinForms\bin\Debug\net6.0-windows\MathsWinForms.pdb
+C:\Users\m1760\source\repos\MathsWinForms\MathsWinForms\obj\Debug\net6.0-windows\MathsWinForms.Form1.resources
+C:\Users\m1760\source\repos\MathsWinForms\MathsWinForms\obj\Debug\net6.0-windows\MathsWinForms.csproj.GenerateResource.cache
+C:\Users\m1760\source\repos\MathsWinForms\MathsWinForms\obj\Debug\net6.0-windows\MathsWinForms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\m1760\source\repos\MathsWinForms\MathsWinForms\obj\Debug\net6.0-windows\MathsWinForms.AssemblyInfoInputs.cache
+C:\Users\m1760\source\repos\MathsWinForms\MathsWinForms\obj\Debug\net6.0-windows\MathsWinForms.AssemblyInfo.cs
+C:\Users\m1760\source\repos\MathsWinForms\MathsWinForms\obj\Debug\net6.0-windows\MathsWinForms.csproj.CoreCompileInputs.cache
+C:\Users\m1760\source\repos\MathsWinForms\MathsWinForms\obj\Debug\net6.0-windows\MathsWinForms.dll
+C:\Users\m1760\source\repos\MathsWinForms\MathsWinForms\obj\Debug\net6.0-windows\refint\MathsWinForms.dll
+C:\Users\m1760\source\repos\MathsWinForms\MathsWinForms\obj\Debug\net6.0-windows\MathsWinForms.pdb
+C:\Users\m1760\source\repos\MathsWinForms\MathsWinForms\obj\Debug\net6.0-windows\MathsWinForms.genruntimeconfig.cache
+C:\Users\m1760\source\repos\MathsWinForms\MathsWinForms\obj\Debug\net6.0-windows\ref\MathsWinForms.dll
+C:\Users\133061\Downloads\Week 10 Solutions\Program 2\MathsWinForms\bin\Debug\net6.0-windows\MathsWinForms.exe
+C:\Users\133061\Downloads\Week 10 Solutions\Program 2\MathsWinForms\bin\Debug\net6.0-windows\MathsWinForms.deps.json
+C:\Users\133061\Downloads\Week 10 Solutions\Program 2\MathsWinForms\bin\Debug\net6.0-windows\MathsWinForms.runtimeconfig.json
+C:\Users\133061\Downloads\Week 10 Solutions\Program 2\MathsWinForms\bin\Debug\net6.0-windows\MathsWinForms.dll
+C:\Users\133061\Downloads\Week 10 Solutions\Program 2\MathsWinForms\bin\Debug\net6.0-windows\MathsWinForms.pdb
+C:\Users\133061\Downloads\Week 10 Solutions\Program 2\MathsWinForms\obj\Debug\net6.0-windows\MathsWinForms.csproj.AssemblyReference.cache
+C:\Users\133061\Downloads\Week 10 Solutions\Program 2\MathsWinForms\obj\Debug\net6.0-windows\MathsWinForms.Form1.resources
+C:\Users\133061\Downloads\Week 10 Solutions\Program 2\MathsWinForms\obj\Debug\net6.0-windows\MathsWinForms.csproj.GenerateResource.cache
+C:\Users\133061\Downloads\Week 10 Solutions\Program 2\MathsWinForms\obj\Debug\net6.0-windows\MathsWinForms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\133061\Downloads\Week 10 Solutions\Program 2\MathsWinForms\obj\Debug\net6.0-windows\MathsWinForms.AssemblyInfoInputs.cache
+C:\Users\133061\Downloads\Week 10 Solutions\Program 2\MathsWinForms\obj\Debug\net6.0-windows\MathsWinForms.AssemblyInfo.cs
+C:\Users\133061\Downloads\Week 10 Solutions\Program 2\MathsWinForms\obj\Debug\net6.0-windows\MathsWinForms.csproj.CoreCompileInputs.cache
+C:\Users\133061\Downloads\Week 10 Solutions\Program 2\MathsWinForms\obj\Debug\net6.0-windows\MathsWinForms.dll
+C:\Users\133061\Downloads\Week 10 Solutions\Program 2\MathsWinForms\obj\Debug\net6.0-windows\refint\MathsWinForms.dll
+C:\Users\133061\Downloads\Week 10 Solutions\Program 2\MathsWinForms\obj\Debug\net6.0-windows\MathsWinForms.pdb
+C:\Users\133061\Downloads\Week 10 Solutions\Program 2\MathsWinForms\obj\Debug\net6.0-windows\MathsWinForms.genruntimeconfig.cache
+C:\Users\133061\Downloads\Week 10 Solutions\Program 2\MathsWinForms\obj\Debug\net6.0-windows\ref\MathsWinForms.dll
